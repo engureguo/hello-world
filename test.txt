@@ -1,0 +1,7 @@
+i've learned all the github introducting course, now i like to write another file and upload from local desktop to my github.
+here four steps:
+	1.create a new file
+	2.use "git add file" to commit
+	3.use "git commit -m 'comment'" to store file in local hub
+	4.use "git push" to upload
+
